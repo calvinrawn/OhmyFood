@@ -1,6 +1,6 @@
 # Ohmyfood - Dynamisez une maquette avec des animations CSS
 
-Troisième projet de ma formation, **Ohmyfood** est un site "mobile-first" qui permet de composer son propre menu et de réduire le temps d'attente au restaurant. Ce projet m'a permis d'approfondir l'utilisation de Sass et de créer des animations fluides sans JavaScript.
+Deuxième projet de ma formation, **Ohmyfood** est un site "mobile-first" qui permet de composer son propre menu et de réduire le temps d'attente au restaurant. Ce projet m'a permis d'approfondir l'utilisation de Sass et de créer des animations fluides sans JavaScript.
 
 ## 📝 Objectifs du projet
 * Intégrer une maquette complète en mode **Mobile-first**.
