@@ -393,19 +393,6 @@ button {
   transition: all 0.3s ease;
 }
 
-.menu-checkmark {
-  font-size: 20px;
-  color: #99E2D0;
-  background-color: #99E2D0;
-  height: 100%;
-  width: 50px;
-  position: absolute;
-  right: -50px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.3s ease;
-}
 .menu-checkmark i {
   color: #99E2D0;
   background-color: white;
@@ -419,6 +406,19 @@ button {
   height: 24px;
   box-sizing: border-box;
   font-size: 12px;
+}
+.menu-checkmark {
+  font-size: 20px;
+  color: #99E2D0;
+  background-color: #99E2D0;
+  height: 100%;
+  width: 50px;
+  position: absolute;
+  right: -50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
 }
 
 .cartemenu:hover .menu-checkmark {
@@ -676,4 +676,3 @@ button {
 .hearth:hover .fas {
   opacity: 1;
 }/*# sourceMappingURL=styless.css.map */
-
